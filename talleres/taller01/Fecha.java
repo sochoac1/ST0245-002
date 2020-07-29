@@ -1,5 +1,5 @@
 /**
- * @author (Miguel Angel Zapata)
+ * @author (Miguel Angel Zapata y Santiago Ochoa Castaño)
  * @version (1)
  */
 public class Fecha {
