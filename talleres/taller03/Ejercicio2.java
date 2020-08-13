@@ -1,4 +1,4 @@
-public class Ejercicio3
+public class Ejercicio2
 {
    /**
     * @author (Miguel Angel Zapata Jimenez & Santiago Ochoa Castaño)
