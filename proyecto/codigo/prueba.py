@@ -8,7 +8,6 @@ with codecs.open('datos0.csv', encoding = 'utf-8-sig') as f:
 
  		results.append(row)
 
-cont=0
 results2=[]
 
 for row in results:	
