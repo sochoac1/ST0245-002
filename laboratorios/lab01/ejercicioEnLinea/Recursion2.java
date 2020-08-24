@@ -8,7 +8,7 @@
 
  
 public class Recursion2{
-    //SPLIT53:
+    //Split53:
     public boolean split53(int[] nums) { 
         return splitAux(nums, 0, 0,0); 
     }  
@@ -25,7 +25,7 @@ public class Recursion2{
         } 
     } 
 
-    //GROUPNOADJ: 
+    //GroupNoAdj: 
     public boolean groupNoAdj(int start, int[] nums, int target) { 
         return groupNoAdjAux(nums,0,target); 
     } 
@@ -38,7 +38,7 @@ public class Recursion2{
         } 
     } 
 
-    //SPLITARRAY: 
+    //SplitArray: 
     public boolean splitArray(int[] nums) { 
         return splitAux(nums, 0, 0,0); 
     } 
@@ -60,7 +60,7 @@ public class Recursion2{
         splitAux(nums, prefix+1, sum1+nums[prefix], sum2); 
     } 
 
-    //GROUPSUMCLUMP: 
+    //GroupSumClump: 
     public boolean groupSumClump(int start, int[] nums, int target) { 
         return groupSumClumpAux(nums,0,target); 
     } 
@@ -72,7 +72,7 @@ public class Recursion2{
         groupSumClumpAux(nums, prefix+1, target); 
     } 
 
-    //GROUPSUM6: 
+    //GroupSum6: 
     public boolean groupSum6(int start, int[] nums, int target) { 
         return groupSum6Aux(nums, 0, target); 
     } 
@@ -83,7 +83,7 @@ public class Recursion2{
         return groupSum6Aux(nums, prefix+1, target-nums[prefix])||groupSum6Aux(nums,prefix+1, target); 
     } 
 
-    //GROUPSUM5: 
+    //GroupSum5: 
     public boolean groupSum5(int start, int[] nums, int target) { 
         return groupSum5Aux(nums,0,target); 
     } 
