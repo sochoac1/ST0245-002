@@ -5,7 +5,7 @@
  * @author (Codigo tomado: https://platzi.com/tutoriales/1469-algoritmos/4260-merge-sort-en-java/) 
  * @version (a version number or a date)
  */
-public class MergeSORT{
+public class MergeSort{
     public static void sort(int arr[], int left, int right){
         if(left < right){
             //Encuentra el punto medio del vector.
