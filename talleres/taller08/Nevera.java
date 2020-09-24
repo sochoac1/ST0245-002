@@ -1,3 +1,4 @@
+//Esta clase se implementa en la clase SolicitudNevera
 public class Nevera {
     private int id;
     private String marca;
