@@ -1,3 +1,4 @@
+//Esta clase se implementa en la clase SolicitudNevera
 public class Solicitud {
     private int cant;
     private String empresa;
