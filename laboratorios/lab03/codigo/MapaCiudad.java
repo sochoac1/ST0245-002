@@ -4,7 +4,7 @@ import java.io.*;
 /**
  * Write a description of class MapaCiudad here.
  * 
- * @author (your name) 
+ * @author (Santiago Ochoa Castaño && Miguel Angel Zapata Jimenez) 
  * @version (a version number or a date)
  */
 /*
