@@ -5,7 +5,7 @@ import java.util.ArrayList;
  * recordar los usos de clase abstracta 
  * @see <a href="https://docs.oracle.com/javase/tutorial/java/IandI/abstract.html"> Abstract </a>
  *
- * @author Mauricio Toro, Camilo Paez
+ * @author Mauricio Toro, Camilo Paez, Santiago Ochoa Castaño, Miguel Angel Zapata Jimenez
  */
 public abstract class Digraph {
 	protected int size;
